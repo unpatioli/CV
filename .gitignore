@@ -1,0 +1,11 @@
+syntax: glob
+
+# Tmp files
+*.tmp*
+*~
+*.bak
+.DS_Store
+
+# Produced pdfs
+*.pdf
+docs

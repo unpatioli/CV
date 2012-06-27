@@ -1,0 +1,87 @@
+h1. Овчинников Сергей, 26 лет
+
+h2. программист
+
+bq. Это резюме на github: "https://github.com/unpatioli/CV":https://github.com/unpatioli/CV
+
+h3. Образование
+
+|^. 2002-2008 гг. | _Московский институт радиотехники, электроники и автоматики_.<br/>Факультет радиотехнических систем.<br/>*Инженер (специалист)*. |
+
+h3. Ключевые навыки
+
+* Программирование на языках:
+** Ruby,
+** Python,
+** C++,
+** C#,
+** Java;
+
+* Работа с системами контроля версий:
+** Git,
+** SVN;
+
+* Web
+** Использование web-фреймворков:
+*** Ruby on Rails,
+*** Django;
+** Client-side:
+*** Coffeescript, SASS,
+*** jQuery,
+*** Backbone.js;
+
+* Базы данных:
+** Реляционные:
+*** PostgreSQL,
+*** MS SQL;
+** Документоориентированные:
+*** MongoDB;
+
+* Навыки использования и администрирования ОС Linux:
+** Opscode Chef,
+** nginx,
+** memcached, sphinx,
+** monit, supervisord;
+
+* Использование сред программирования и систем сборки:
+** SCons, make,
+** Eclipse,
+** VisualStudio,
+** IntelliJ IDEA.
+
+h3. Проекты и примеры кода
+
+* Ruby(Sinatra/Rails)
+** IneedRussia.ru "http://ineedrussia.herokuapp.com":http://ineedrussia.herokuapp.com
+** Wordbunny "http://wordbunny.herokuapp.com":http://wordbunny.herokuapp.com
+** Fancywork "http://fancy.greenfrog.ru":http://fancy.greenfrog.ru
+* Python/Django
+** Риэлторы Москвы "http://realtors-unpatioli.dotcloud.com/":http://realtors-unpatioli.dotcloud.com
+** Wordbunny "http://wordbunny.greenfrog.ru/":http://wordbunny.greenfrog.ru
+* Python
+** OSM_XML => db "https://github.com/msqui/osm_xml_cruncher":https://github.com/msqui/osm_xml_cruncher
+* C++
+** Fancywork "https://github.com/msqui/fancywork":https://github.com/msqui/fancywork
+** dxf_machine "https://github.com/msqui/dxf_machine":https://github.com/msqui/dxf_machine
+** parrot "https://github.com/msqui/parrot":https://github.com/msqui/parrot
+* Java
+** Rapapum "https://github.com/msqui/rapapum":https://github.com/msqui/rapapum
+
+h3. Дополнительно
+
+*_Гражданство:_* российское
+
+*_Постоянное проживание:_* г. Москва
+
+h3. Языки	
+
+* Родной язык — Русский
+* Английский: читаю профессиональную литературу
+* Французский: читаю профессиональную литературу, немного разговариваю
+* Финский: начал изучать
+
+h3. Контакты
+
+*_E-mail:_* sergey (at) greenfrog (dot) ru
+
+*_Телефон:_* +7 (926) 287-53-69
