@@ -26,7 +26,7 @@ h3. Ключевые навыки
 *** Ruby on Rails,
 *** Django;
 ** Client-side:
-*** Coffeescript, SASS,
+*** Haml, Coffeescript, SASS,
 *** jQuery,
 *** Backbone.js;
 
