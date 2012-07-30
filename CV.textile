@@ -2,7 +2,7 @@ h1. Овчинников Сергей, 26 лет
 
 h2. программист
 
-bq. Это резюме на github: "https://github.com/unpatioli/CV":https://github.com/unpatioli/CV
+bq. Это резюме на github: "http://unpatioli.github.com":http://unpatioli.github.com
 
 h3. Образование
 
@@ -52,7 +52,6 @@ h3. Ключевые навыки
 h3. Проекты и примеры кода
 
 * Ruby(Sinatra/Rails)
-** IneedRussia.ru "http://ineedrussia.herokuapp.com":http://ineedrussia.herokuapp.com
 ** Wordbunny "http://wordbunny.herokuapp.com":http://wordbunny.herokuapp.com
 ** Fancywork "http://fancy.greenfrog.ru":http://fancy.greenfrog.ru
 * Python/Django
