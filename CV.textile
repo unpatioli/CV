@@ -1,4 +1,4 @@
-h1. Овчинников Сергей, 28 лет
+h1. Овчинников Сергей, 30 лет
 
 h2. программист
 
@@ -11,9 +11,9 @@ h3. Образование
 h3. Ключевые навыки
 
 * Программирование на языках:
+** C++,
 ** Ruby,
 ** Python,
-** C++,
 ** C#,
 ** Java;
 
@@ -51,6 +51,8 @@ h3. Ключевые навыки
 
 h3. Проекты и примеры кода
 
+* Frontend
+** Transportation accessibility in Moscow city "http://izo.urbanstat.ru":http://izo.urbanstat.ru
 * Ruby(Sinatra/Rails)
 ** Wordbunny "http://wordbunny.herokuapp.com":http://wordbunny.herokuapp.com
 ** Fancywork "http://fancy.greenfrog.ru":http://fancy.greenfrog.ru
@@ -77,10 +79,9 @@ h3. Языки
 * Родной язык — Русский
 * Английский: читаю профессиональную литературу
 * Французский: читаю профессиональную литературу, немного разговариваю
-* Финский: начал изучать
 
 h3. Контакты
 
-*_E-mail:_* sergey (at) greenfrog (dot) ru
+*_E-mail:_* unpatioli (at) gmail (dot) com
 
 *_Телефон:_* +7 (926) 287-53-69
